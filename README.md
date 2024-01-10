@@ -1,6 +1,6 @@
 ## Next.js Dashboard Application
 
-This is the small application from the official course, see [course curriculum](https://nextjs.org/learn) to learn more Next.js.
+This is the small application from the official course, see [course curriculum](https://nextjs.org/learn) to learn better Next.js.
 
 ## Why
 
